@@ -2,12 +2,12 @@
 
 ****Aprašymas:****
 
-Tikslas sukurti sistemą, kuri automatiškai klasifikuotų įvairius dokumentus, pavyzdžiui, įsakymos, potvarkius ar sprendimus, į atitinkamas kategorijas. 
+Tikslas sukurti sistemą, kuri automatiškai klasifikuotų dokumentus, pavyzdžiui, įsakymus, potvarkius ar sprendimus į atitinkamas kategorijas. 
 Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumentų valdymo procesus.
 
 **Analizuojama:** 
 
-⫸  Švenčionių rajono savivaldybės dokumentai
+⫸  Atrinkti dokumentai
 
 **Technologijos:**
 
