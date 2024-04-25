@@ -7,11 +7,11 @@ Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumen
 
 **Analizuojama:** 
 
-⫸  Lietuvos teisės aktų registro (e-TAR) dokumentai.
+⫸  Švenčionių rajono savivaldybės dokumentai
 
 **Technologijos:**
 
-⫸  Python
+⫸  Python 
 
 ⫸  NLTK
 
