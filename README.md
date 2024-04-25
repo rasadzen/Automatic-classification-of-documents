@@ -19,7 +19,7 @@ duomenys - SQLite databazės katalogas su pirminiais duomenimis
 
 Atlikti teksto išgavimą, valymą ir paruošimą tolesnei analizei.
 
-**Modelių kūrimas:**
+**<a href=https://github.com/rasadzen/Automatic-classification-of-documents/blob/main/model.ipynb> ✔ Modelių kūrimas:</a>**
 
 Naudoti tekstų klasifikavimo algoritmus, tokius kaip Naive Bayes,  gilieji neuroniniai tinklai.
 
