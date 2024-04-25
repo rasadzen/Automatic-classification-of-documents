@@ -1,32 +1,43 @@
 Darbo autoriai: Emilija Zebrauskaitė, Rasa Dzenkauskaitė, Miroslav Adamaic, Valentina Verikė
 
-**Automatinis dokumentų klasifikavimas**
+****Aprašymas:****
 
-Analizuojami: Lietuvos teisės aktų registro (e-TAR) dokumentai.
+Tikslas sukurti sistemą, kuri automatiškai klasifikuotų įvairius dokumentus, pavyzdžiui, įsakymos, potvarkius ar sprendimus, į atitinkamas kategorijas. 
+Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumentų valdymo procesus.
 
-Technologijos: Python, NLTK, TensorFlow
+**Analizuojama:** 
 
-**PROJEKTO svarbiausios dalys:**
+⫸  Lietuvos teisės aktų registro (e-TAR) dokumentai.
+
+**Technologijos:**
+
+⫸  Python
+
+⫸  NLTK
+
+⫸  TensorFlow
+
 
 **Duomenų rinkimas:**
 
-duomenys.py - duomenų nuskaitymas, kintamųjų atrinkimas, tvarkymas, TAR duokumentų SQLite databazės sukūrimas.
+⫸  Duomenų nuskaitymas, kintamųjų atrinkimas, tvarkymas, TAR duokumentų SQLite databazės sukūrimas.
 
-duomenys - SQLite databazės katalogas su pirminiais duomenimis
+⫸  SQLite duomenų bazė su pirminiais duomenimis.
 
 
 **Teksto apdorojimas:**
 
-Atlikti teksto išgavimą, valymą ir paruošimą tolesnei analizei.
+⫸  Išgautas tekstas, atliktas teksto valymas ir paruošimas tolesnei analizei.
 
-**<a href=https://github.com/rasadzen/Automatic-classification-of-documents/blob/main/model.ipynb> ✔ Modelių kūrimas:</a>**
+**<a href=https://github.com/rasadzen/Automatic-classification-of-documents/blob/main/model.ipynb> ✔ Modelio kūrimas:</a>**
 
-Naudoti tekstų klasifikavimo algoritmus, tokius kaip Naive Bayes,  gilieji neuroniniai tinklai.
+⫸  Duomenys vektorizuojami, naudojamas teksto klasifikavimo algoritmas Naive Bayes, apskaičiuojamas modelio tikslumas.
+
 
 
 **Vertinimas:**
 
-Įvertinti modelio efektyvumą, naudojant kryžminį patikrinimą ir kitus metrikus.
+⫸  Įvertinamas modelio efektyvumas, naudojant kryžminį patikrinimą ir kitus metrikas.
 
 
     
