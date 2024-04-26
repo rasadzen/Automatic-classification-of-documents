@@ -20,6 +20,10 @@ Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumen
 ⫸  Duomenys vektorizuojami, naudojamas teksto klasifikavimo algoritmas Naive Bayes, apskaičiuojamas modelio tikslumas.
 
 
+**<a href=https://github.com/rasadzen/Automatic-classification-of-documents/blob/main/model.ipynb>📝 Iššūkiai:</a>**
+
+Duomenų nuskaitymo automatizavimas. Bandyta dokumentų tipus nuskaityti Selenium bibliotekos pagalba, tačiau nesėkmingai. Dokumentai apsaugoti/neprieinami.
+
 **Technologijos:**
 
 ⫸  Python 🐍
