@@ -5,9 +5,20 @@
 Tikslas sukurti sistemą, kuri automatiškai klasifikuotų dokumentus, pavyzdžiui, įsakymus, potvarkius ar sprendimus į atitinkamas kategorijas. 
 Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumentų valdymo procesus.
 
-**Analizuojama:** 
+**<a href=https://github.com/rasadzen/Automatic-classification-of-documents/blob/main/duomenu_nuskaitymas.py> ✔ Duomenys:</a>**
 
-⫸  Atrinkti dokumentai
+
+⫸  Išgautas tekstas, atliktas teksto valymas ir paruošimas tolimesnei analizei.
+
+⫸  Duomenų nuskaitymas, kintamųjų atrinkimas, tvarkymas.
+
+⫸  SQLite duomenų bazė su pirminiais duomenimis.
+
+
+**<a href=https://github.com/rasadzen/Automatic-classification-of-documents/blob/main/model.ipynb> ✔ Modelio kūrimas:</a>**
+
+⫸  Duomenys vektorizuojami, naudojamas teksto klasifikavimo algoritmas Naive Bayes, apskaičiuojamas modelio tikslumas.
+
 
 **Technologijos:**
 
@@ -20,28 +31,14 @@ Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumen
 
 ⫸  TensorFlow
 
+**Analizuojama:** 
 
-**Duomenų rinkimas:**
-
-⫸  Duomenų nuskaitymas, kintamųjų atrinkimas, tvarkymas.
-
-⫸  SQLite duomenų bazė su pirminiais duomenimis.
-
-
-**Teksto apdorojimas:**
-
-⫸  Išgautas tekstas, atliktas teksto valymas ir paruošimas tolesnei analizei.
-
-**<a href=https://github.com/rasadzen/Automatic-classification-of-documents/blob/main/model.ipynb> ✔ Modelio kūrimas:</a>**
-
-⫸  Duomenys vektorizuojami, naudojamas teksto klasifikavimo algoritmas Naive Bayes, apskaičiuojamas modelio tikslumas.
-
-
+⫸  Atrinkti dokumentai
 
 
 **Vertinimas:**
 
-⫸  Įvertinamas modelio efektyvumas, naudojant kryžminį patikrinimą ir kitus metrikas.
+⫸  Įvertinamas modelio efektyvumas, naudojant kryžminį patikrinimą ir kitus metrikas. 
 
 
     
