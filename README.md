@@ -31,7 +31,7 @@ Duomenų nuskaitymo automatizavimas. Bandyta dokumentų tipus nuskaityti Seleniu
 **Bibliotekos**
 
 
-⫸  NLTK, sqlite, numpy, os, sklearn, matplotlib, docx, re, string 
+⫸  NLTK, numpy, os, beautifulSoup (BS4), selenium, sqlite, sklearn, matplotlib, docx, re, string 
 
 
 **Analizuojama:** 
