@@ -11,16 +11,19 @@ Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumen
 
 **Technologijos:**
 
-⫸  Python 
+⫸  Python 🐍
 
-⫸  NLTK
+**Bibliotekos**
+
+
+⫸  NLTK, sqlite, numpy, os, sklearn, matplotlib, docx, re, string 
 
 ⫸  TensorFlow
 
 
 **Duomenų rinkimas:**
 
-⫸  Duomenų nuskaitymas, kintamųjų atrinkimas, tvarkymas, TAR duokumentų SQLite databazės sukūrimas.
+⫸  Duomenų nuskaitymas, kintamųjų atrinkimas, tvarkymas.
 
 ⫸  SQLite duomenų bazė su pirminiais duomenimis.
 
