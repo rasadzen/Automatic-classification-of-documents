@@ -1,43 +1,47 @@
-**Darbo autoriai💻📈:** Emilija Zebrauskaitė, Rasa Dzenkauskaitė, Miroslav Adamaic, Valentina Verikė
+**Darbo autoriai💻📈:** Emilija Žebrauskaitė, Rasa Dzenkauskaitė, Miroslav Adamaic, Valentina Verikė
 
 ****Aprašymas:****
 
 Tikslas sukurti sistemą, kuri automatiškai klasifikuotų dokumentus, pavyzdžiui, įsakymus, potvarkius ar sprendimus į atitinkamas kategorijas. 
 Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumentų valdymo procesus.
 
-**Analizuojama:** 
-
-⫸  Atrinkti dokumentai
-
-**Technologijos:**
-
-⫸  Python 
-
-⫸  NLTK
-
-⫸  TensorFlow
+**<a href=https://github.com/rasadzen/Automatic-classification-of-documents/blob/main/duomenu_nuskaitymas.py> ✔ Duomenys:</a>**
 
 
-**Duomenų rinkimas:**
+⫸  Išgautas tekstas, atliktas teksto valymas ir paruošimas tolimesnei analizei.
 
-⫸  Duomenų nuskaitymas, kintamųjų atrinkimas, tvarkymas, TAR duokumentų SQLite databazės sukūrimas.
+⫸  Duomenų nuskaitymas, kintamųjų atrinkimas, tvarkymas.
 
 ⫸  SQLite duomenų bazė su pirminiais duomenimis.
 
-
-**Teksto apdorojimas:**
-
-⫸  Išgautas tekstas, atliktas teksto valymas ir paruošimas tolesnei analizei.
 
 **<a href=https://github.com/rasadzen/Automatic-classification-of-documents/blob/main/model.ipynb> ✔ Modelio kūrimas:</a>**
 
 ⫸  Duomenys vektorizuojami, naudojamas teksto klasifikavimo algoritmas Naive Bayes, apskaičiuojamas modelio tikslumas.
 
 
+**Technologijos:**
+
+⫸  Python 🐍
+
+**Bibliotekos**
+
+
+⫸  NLTK, sqlite, numpy, os, sklearn, matplotlib, docx, re, string 
+
+⫸  TensorFlow
+
+**Analizuojama:** 
+
+⫸  Atrinkti dokumentai
+
 
 **Vertinimas:**
 
-⫸  Įvertinamas modelio efektyvumas, naudojant kryžminį patikrinimą ir kitus metrikas.
+⫸  Įvertinamas modelio efektyvumas, naudojant kryžminį patikrinimą ir kitus metrikas. 
+
+![Figure_1](https://github.com/rasadzen/Automatic-classification-of-documents/assets/123960017/adcb0c58-cb2b-4d26-920a-415c3be16343)
+![Figure_2](https://github.com/rasadzen/Automatic-classification-of-documents/assets/123960017/b813a00b-e48f-4a6a-8aeb-f6789c344cff)
 
 
     
