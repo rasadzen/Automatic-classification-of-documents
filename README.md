@@ -22,12 +22,12 @@ Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumen
 
 **<a href=https://github.com/rasadzen/Automatic-classification-of-documents/tree/main/vertinimai> ✔ Vertinimas:</a>**
 
-⫸  Įvertinamas modelio efektyvumas, naudojant kryžminį patikrinimą ir kitus metrikas. 
+⫸  Įvertinamas modelio efektyvumas, naudojant kryžminį patikrinimą ir kitas metrikas. 
 
 
 **<a href=https://github.com/rasadzen/Automatic-classification-of-documents/blob/main/Scrape.py>📝 Iššūkiai:</a>**
 
-Duomenų nuskaitymo automatizavimas. Bandyta dokumentų tipus nuskaityti Selenium bibliotekos pagalba, tačiau nesėkmingai. Dokumentai apsaugoti/neprieinami.
+⫸  Duomenų nuskaitymo automatizavimas. Bandyta dokumentų tipus nuskaityti Selenium bibliotekos pagalba, tačiau nesėkmingai. Dokumentai apsaugoti/neprieinami.
 
 **Technologijos:**
 
