@@ -23,6 +23,8 @@ Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumen
 **<a href=https://github.com/rasadzen/Automatic-classification-of-documents/tree/main/vertinimai> ✔ Vertinimas:</a>**
 
 ⫸  Įvertinamas modelio efektyvumas, naudojant kryžminį patikrinimą ir kitas metrikas. 
+
+
 ![image](https://github.com/rasadzen/Automatic-classification-of-documents/assets/163419930/da28a19c-e91d-4b9b-8655-60188b4c0af4)
 
 
@@ -47,6 +49,8 @@ Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumen
 **Analizuojama:** 
 
 ⫸  Atrinkti dokumentai
+
+
 
 
 
