@@ -39,12 +39,9 @@ Duomenų nuskaitymo automatizavimas. Bandyta dokumentų tipus nuskaityti Seleniu
 ⫸  Atrinkti dokumentai
 
 
-**Vertinimas:**
+**<a href=https://github.com/rasadzen/Automatic-classification-of-documents/tree/main/vertinimai> ✔ Vertinimas:</a>**
 
 ⫸  Įvertinamas modelio efektyvumas, naudojant kryžminį patikrinimą ir kitus metrikas. 
-
-![Figure_1](https://github.com/rasadzen/Automatic-classification-of-documents/assets/123960017/adcb0c58-cb2b-4d26-920a-415c3be16343)
-![Figure_2](https://github.com/rasadzen/Automatic-classification-of-documents/assets/123960017/b813a00b-e48f-4a6a-8aeb-f6789c344cff)
 
 
     
