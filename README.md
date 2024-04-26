@@ -38,6 +38,7 @@ Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumen
 
 
 
+
 **Vertinimas:**
 
 ⫸  Įvertinamas modelio efektyvumas, naudojant kryžminį patikrinimą ir kitus metrikas.
