@@ -6,6 +6,7 @@ import os
 from nltk.tokenize import word_tokenize
 import docx
 import os
+import nltk
 from nltk.tokenize import word_tokenize
 
 directory = r"C:\Users\GS\PycharmProjects\Automatic-classification-of-documents\Dokumentai"
