@@ -5,10 +5,17 @@
 Tikslas sukurti sistemą, kuri automatiškai klasifikuotų dokumentus, pavyzdžiui, įsakymus, potvarkius ar sprendimus į atitinkamas kategorijas. 
 Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumentų valdymo procesus.
 
+
+**<a href=https://github.com/rasadzen/Automatic-classification-of-documents/tree/main/Dokumentai> ✔ Dokumentai:</a>**
+
+⫸  Atrinkti dokumentai
+
+
+
 **<a href=https://github.com/rasadzen/Automatic-classification-of-documents/blob/main/duomenu_nuskaitymas.py> ✔ Duomenys:</a>**
 
 
-⫸  Išgautas tekstas, atliktas teksto valymas ir paruošimas tolimesnei analizei.
+⫸  Atliktas teksto valymas ir paruošimas tolimesnei analizei.
 
 ⫸  Duomenų nuskaitymas, kintamųjų atrinkimas, tvarkymas.
 
@@ -46,6 +53,3 @@ Tai padėtų įmonėms geriau tvarkyti dokumentų srautus ir efektyvinti dokumen
 ⫸  NLTK, numpy, os, beautifulSoup (BS4), selenium, sqlite, sklearn, matplotlib, docx, re, string 
 
 
-**Analizuojama:** 
-
-⫸  Atrinkti dokumentai
