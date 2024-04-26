@@ -1,4 +1,4 @@
-**Darbo autoriai💻📈:** Emilija Zebrauskaitė, Rasa Dzenkauskaitė, Miroslav Adamaic, Valentina Verikė
+**Darbo autoriai💻📈:** Emilija Žebrauskaitė, Rasa Dzenkauskaitė, Miroslav Adamaic, Valentina Verikė
 
 ****Aprašymas:****
 
